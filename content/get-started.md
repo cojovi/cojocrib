@@ -1,66 +1,16 @@
-# COJOVI.COM
+# COJOVI'S PARTNERS
+Developer | Coding Specialist | Robotics Enthusiast
+<a href="https://i.imgur.com/87NSSY7"><img src="https://i.imgur.com/87NSSY7.png" title="source: imgur.com" /></a>
 
-<a href="https://imgur.com/g569ZU1"><img src="https://i.imgur.com/g569ZU1.jpg" title="source: imgur.com" /></a>
-
+:button-link[Check Our Blog]{size="small" icon="dashicons:welcome-write-blog" href="https://techdonecheap.com" blank}
+:button-link[Check Our Apparel]{size="small" icon="pepicons-pop:t-shirt" href="https://beefthroat.com" blank}
+:button-link[Check Our Secrets]{size="small" icon="fa-solid:user-secret" href="https://stargazerproject.xyz" blank}
 
 Starting a new revolution
 
 ## Stay with the cool kids
-
-Developer | Coding Specialist | Robotics Enthusiast
-
-:button-link[Check Our Shit]{size="small" icon="IconStackBlitz" href="https://techdonecheap.com" blank}
-
-## Check our GitHub
-
-1. Pull our shit:
-
-```bash [npx]
-npx nuxi@https://github.com/cojovi
-```
-
-2. Install the dependencies in the `docs` folder:
-
-::code-group
-
-  ```bash [npm]
-  npm install
-  ```
-
-  ```bash [yarn]
-  yarn install
-  ```
-
-  ```bash [pnpm]
-  pnpm install --shamefully-hoist
-  ```
-
-::
-
-3. Run the `dev` command to start Docus in development mode:
-
-::code-group
-
-```bash [npm]
-npm run dev
-```
-
-```bash [yarn]
-yarn dev
-```
-
-```bash [pnpm]
-pnpm run dev
-```
-
-::
+## Bookmark our Tech Blog for updates!
 
 ::alert{type="success"}
-✨ Well done! A browser window should automatically open for <http://localhost:3000>
-::
-
-::
-
-::alert{type="success"}
-✨ Well done! A browser window should automatically open for <http://localhost:3000>
+✨ Dont Forget! Open a browser window for <https://techdonecheap.com>
 ::
