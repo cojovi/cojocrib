@@ -8,5 +8,9 @@ export default defineNuxtConfig({
     // https://github.com/nuxt-modules/plausible
     '@nuxtjs/plausible',
     '@nuxthq/studio'
+    '@nuxtjs/google-analytics'
   ]
+  googleAnalytics: {
+     id: 'G-NFV5YPQQ7G'
+  }
 })
