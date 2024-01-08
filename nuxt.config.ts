@@ -10,7 +10,5 @@ export default defineNuxtConfig({
     '@nuxthq/studio'
     '@nuxtjs/google-analytics'
   ]
-  googleAnalytics: {
-     id: 'G-NFV5YPQQ7G'
-  }
+ 
 })
