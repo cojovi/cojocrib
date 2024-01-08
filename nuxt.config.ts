@@ -7,8 +7,11 @@ export default defineNuxtConfig({
     // Remove it if you don't use Plausible analytics
     // https://github.com/nuxt-modules/plausible
     '@nuxtjs/plausible',
-    '@nuxthq/studio'
+    '@nuxthq/studio',
     '@nuxtjs/google-analytics'
-  ]
- 
+  ],
+
+  googleAnalytics: {
+    id: 'G-NFV5YPQQ7G'
+  }
 })
