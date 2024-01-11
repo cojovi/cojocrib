@@ -7,6 +7,7 @@ export default defineNuxtConfig({
     // Remove it if you don't use Plausible analytics
     // https://github.com/nuxt-modules/plausible
     '@nuxtjs/plausible',
+    '@nuxtjs/sitemap',
     '@nuxthq/studio'
   ]
 })
