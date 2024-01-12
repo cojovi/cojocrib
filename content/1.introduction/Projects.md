@@ -1,6 +1,6 @@
+<a href="https://imgur.com/YGHbAnr"><img src="https://i.imgur.com/YGHbAnr.png" title="source: cojovi.com" /></a>
 # Current Project
 Tinkering | Coding Fun | Robotics Mumbo Jumbo | Tech Specs
-<a href="https://imgur.com/YGHbAnr"><img src="https://i.imgur.com/YGHbAnr.png" title="source: cojovi.com" /></a>
 
 ::block-hero
 ---
