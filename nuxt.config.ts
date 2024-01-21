@@ -3,10 +3,10 @@ export default defineNuxtConfig({
   extends: '@nuxt-themes/docus',
   devtools: { enabled: true },
 
-  modules: [
+  modules: ['@nuxthq/studio',
     '@nuxtjs/plausible',
     '@nuxtjs/sitemap',
-    '@nuxthq/studio',
+    '
     'nuxt-simple-robots'
   ],
 
