@@ -4,11 +4,23 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
 
   modules: [
-    // Remove it if you don't use Plausible analytics
-    // https://github.com/nuxt-modules/plausible
     '@nuxtjs/plausible',
     '@nuxtjs/sitemap',
     '@nuxthq/studio',
     'nuxt-simple-robots'
-  ]
+  ],
+
+  // Adding the chat widget script
+  head: {
+    script: [
+      {
+        src: 'https://widgets.leadconnectorhq.com/loader.js',
+        'data-resources-url': 'https://widgets.leadconnectorhq.com/chat-widget/loader.js',
+        async: true
+      }
+    ],
+    // other head properties (if any)
+  },
+
+  // other Nuxt configuration options (if any)
 })
