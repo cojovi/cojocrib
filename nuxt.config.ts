@@ -3,10 +3,10 @@ export default defineNuxtConfig({
   extends: '@nuxt-themes/docus',
   devtools: { enabled: true },
 
-  modules: ['@nuxthq/studio',
+  modules: [
+    '@nuxthq/studio',
     '@nuxtjs/plausible',
     '@nuxtjs/sitemap',
-    '
     'nuxt-simple-robots'
   ],
 
@@ -15,9 +15,10 @@ export default defineNuxtConfig({
     script: [
       {
         src: 'https://widgets.leadconnectorhq.com/loader.js',
-        'data-resources-url': 'https://widgets.leadconnectorhq.com/chat-widget/loader.js',
-        async: true
+        async: true,
+        body: true // Optional: if you want the script to be placed before the closing body tag
       }
+      // If you need to set data-resources-url or other data attributes, it might need to be handled differently
     ],
     // other head properties (if any)
   },
