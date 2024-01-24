@@ -1,0 +1,82 @@
+title: Pricing
+description: Select the perfect package to elevate your digital presence.
+navigation.icon: i-heroicons-credit-card
+hero:
+  title: Tailored Plans for Your Digital Needs
+  description: Whether you're starting out or scaling up, our diverse range of plans offers the perfect fit for your business's digital journey.
+  align: center
+plans:
+  - title: Enchanter's Essential
+    description: Ideal for small businesses seeking essential digital tools. This package includes 2-way text & email conversation, GMB messaging, web chat, reputation management, and more.
+    price:
+      month: $197
+    align: top
+    button:
+      label: Choose Enchanter's Essential
+      color: primary
+    features:
+      - "2 Way Text & Email Conversation"
+      - "GMB Messaging"
+      - "Web Chat"
+      - "Reputation Management"
+      - "Facebook Messenger"
+      - "GMB Call Tracking"
+      - "Missed Call Text Back"
+      - "Text To Pay"
+  - title: Technomancer's To
+    description: A comprehensive solution for growing businesses. Includes all features in the Enchanter's Essential, plus calendar, CRM, opportunities, email marketing, and more.
+    price:
+      month: $297
+    align: center
+    button:
+      label: Choose Technomancer's To
+      color: secondary
+    features:
+      - "2 Way Text & Email Conversation"
+      - "GMB Messaging"
+      - "Web Chat"
+      - "Reputation Management"
+      - "Facebook Messenger"
+      - "GMB Call Tracking"
+      - "Missed Call Text Back"
+      - "Text To Pay"
+      - "Calendar"
+      - "CRM"
+      - "Opportunities"
+      - "Email Marketing"
+  - title: Archmage's Arsenal
+    description: The ultimate package for total digital dominance. Features everything in Technomancer's To, plus social planner, invoice, forms, surveys, trigger links, and much more.
+    price:
+      month: $497
+    align: bottom
+    button:
+      label: Choose Archmage's Arsenal
+      color: tertiary
+    features:
+      - "2 Way Text & Email Conversation"
+      - "GMB Messaging"
+      - "Web Chat"
+      - "Reputation Management"
+      - "Facebook Messenger"
+      - "GMB Call Tracking"
+      - "Missed Call Text Back"
+      - "Text To Pay"
+      - "Calendar"
+      - "CRM"
+      - "Opportunities"
+      - "Email Marketing"
+      - "Social Planner"
+      - "Invoice"
+      - "Forms"
+      - "Surveys"
+      - "Trigger Links"
+      - "SMS & Email Templates"
+      - "Funnels"
+      - "Websites"
+      - "Workflows"
+      - "Memberships"
+      - "All Reporting"
+      - "Triggers"
+      - "Campaigns"
+      - "Blogs"
+      - "Affiliate Manager"
